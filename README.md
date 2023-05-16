@@ -1,6 +1,6 @@
 # Spring Spirit
 
-<img align="right" src="https://img.itch.zone/aW1nLzEyMDQ0MjM1LnBuZw==/347x500/QfN2ui.png" width= 200/>
+<img align="right" src="https://img.itch.zone/aW1nLzEyMTg2NDkxLnBuZw==/315x250%23c/%2BDpp12.png" width= 200/>
 
 Spring Spirit is a 3D puzzle game made in Unity in 3 days
 
